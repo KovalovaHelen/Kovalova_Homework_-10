@@ -22,6 +22,7 @@ S = [
     [5, 7, 2, 7, 5, 2, 1]
 ]
 
+
 for j in range(7):
     for i in range(4):
         if S[0][j] > S[3][j]:
